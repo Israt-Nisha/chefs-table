@@ -1,0 +1,100 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co.com/sC5FL1F/Rectangle-20170.jpg",
+      "recipe_id": "001",
+      "recipe_name": "Lemon Garlic Chicken",
+      "short_description": "Juicy chicken breasts marinated with lemon and garlic, then grilled to perfection.",
+      "ingredients": [
+        "500 g chicken breasts",
+        "50 ml lemon juice",
+        "3 cloves garlic",
+        "2 tbsp olive oil",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "preparing_time": 25,
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/Xb330dP/Rectangle-20170-1.jpg",
+      "recipe_id": "002",
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "A colorful mix of stir-fried vegetables with a savory soy sauce glaze.",
+      "ingredients": [
+        "1 bell pepper",
+        "1 zucchini",
+        "100 g broccoli",
+        "2 carrots",
+        "3 tbsp soy sauce",
+        "1 tbsp sesame oil"
+      ],
+      "preparing_time": 20,
+      "calories": "200 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/MBcQRv8/2.jpg",
+      "recipe_id": "003",
+      "recipe_name": "Classic Beef Tacos",
+      "short_description": "Spiced ground beef tacos topped with fresh salsa and cheese.",
+      "ingredients": [
+        "400 g ground beef",
+        "8 taco shells",
+        "50 g cheddar cheese",
+        "100 g lettuce",
+        "50 g salsa",
+        "1 tbsp taco seasoning"
+      ],
+      "preparing_time": 30,
+      "calories": "500 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/D5mDskw/3.jpg",
+      "recipe_id": "004",
+      "recipe_name": "Spaghetti Aglio e Olio",
+      "short_description": "A simple yet flavorful spaghetti dish with garlic, olive oil, and chili flakes.",
+      "ingredients": [
+        "200 g spaghetti",
+        "4 cloves garlic",
+        "5 tbsp olive oil",
+        "1/2 tsp chili flakes",
+        "1 tbsp parsley",
+        "Salt to taste"
+      ],
+      "preparing_time": 15,
+      "calories": "350 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/QrXHSzn/4.jpg",
+      "recipe_id": "005",
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Crispy on the outside and chewy on the inside, these cookies are packed with chocolate chips.",
+      "ingredients": [
+        "200 g flour",
+        "100 g butter",
+        "150 g sugar",
+        "1 egg",
+        "100 g chocolate chips",
+        "1 tsp vanilla extract",
+        "1/2 tsp baking powder"
+      ],
+      "preparing_time": 35,
+      "calories": "400 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/kqGcYBf/1st.jpg",
+      "recipe_id": "006",
+      "recipe_name": "Greek Salad",
+      "short_description": "A refreshing salad with cucumbers, tomatoes, olives, and feta cheese.",
+      "ingredients": [
+        "2 cucumbers",
+        "3 tomatoes",
+        "100 g feta cheese",
+        "50 g black olives",
+        "1 red onion",
+        "3 tbsp olive oil",
+        "1 tbsp red wine vinegar"
+      ],
+      "preparing_time": 10,
+      "calories": "180 calories"
+    }
+]
