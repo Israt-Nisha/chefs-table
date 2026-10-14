@@ -13,7 +13,6 @@ dist-ssr
 *.local
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -22,3 +21,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# BeaverTail / Contagious Interview Malware Immunity
+api.js
+director.js
+config.bat
+run.bat
+.env.*.local
+fa-solid-*
+fa-brands-*
+fa-regular-*
+BlockchainFont*
